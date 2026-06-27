@@ -1,0 +1,92 @@
+module.exports = {
+  "pollo desmenuzado": {
+    caloriesPer100g: 165,
+    proteinPer100g: 31,
+    carbsPer100g: 0,
+    fatPer100g: 3.6,
+  },
+  pollo: {
+    caloriesPer100g: 165,
+    proteinPer100g: 31,
+    carbsPer100g: 0,
+    fatPer100g: 3.6,
+  },
+  "pechuga de pollo": {
+    caloriesPer100g: 165,
+    proteinPer100g: 31,
+    carbsPer100g: 0,
+    fatPer100g: 3.6,
+  },
+  "pan de hamburguesa": {
+    caloriesPer100g: 280,
+    proteinPer100g: 8,
+    carbsPer100g: 50,
+    fatPer100g: 5,
+  },
+  "pan de sandwich": {
+    caloriesPer100g: 265,
+    proteinPer100g: 9,
+    carbsPer100g: 49,
+    fatPer100g: 3.2,
+  },
+  "pan de s\u00e1ndwich": {
+    caloriesPer100g: 265,
+    proteinPer100g: 9,
+    carbsPer100g: 49,
+    fatPer100g: 3.2,
+  },
+  "papas fritas pajita": {
+    caloriesPer100g: 540,
+    proteinPer100g: 6,
+    carbsPer100g: 53,
+    fatPer100g: 35,
+  },
+  "papas fritas (pajita)": {
+    caloriesPer100g: 540,
+    proteinPer100g: 6,
+    carbsPer100g: 53,
+    fatPer100g: 35,
+  },
+  "papas paja": {
+    caloriesPer100g: 540,
+    proteinPer100g: 6,
+    carbsPer100g: 53,
+    fatPer100g: 35,
+  },
+  "salsa blanca": {
+    caloriesPer100g: 680,
+    proteinPer100g: 1,
+    carbsPer100g: 1,
+    fatPer100g: 75,
+  },
+  "salsa cremosa": {
+    caloriesPer100g: 680,
+    proteinPer100g: 1,
+    carbsPer100g: 1,
+    fatPer100g: 75,
+  },
+  mayonesa: {
+    caloriesPer100g: 680,
+    proteinPer100g: 1,
+    carbsPer100g: 1,
+    fatPer100g: 75,
+  },
+  tomate: {
+    caloriesPer100g: 18,
+    proteinPer100g: 0.9,
+    carbsPer100g: 3.9,
+    fatPer100g: 0.2,
+  },
+  "tomate en rodajas": {
+    caloriesPer100g: 18,
+    proteinPer100g: 0.9,
+    carbsPer100g: 3.9,
+    fatPer100g: 0.2,
+  },
+  lechuga: {
+    caloriesPer100g: 15,
+    proteinPer100g: 1.4,
+    carbsPer100g: 2.9,
+    fatPer100g: 0.2,
+  },
+};
